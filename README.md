@@ -1,63 +1,68 @@
 # QR Code Generator
 
-`QR-Code-Generator` is a static web project using HTML, CSS, and JavaScript. It can be opened directly in a browser or served locally for development.
+## Project Tags
+
+- No requested category tag currently applies.
+
+## Overview
+
+QR Code Generator is a static browser tool for generating QR codes.
 
 ## Features
 
-- Static browser application that can be opened locally
+- Static browser UI that can run without a backend
 
 ## Tech Stack
 
+- JavaScript
 - HTML
 - CSS
-- JavaScript
 
 ## Project Structure
 
-- `README.md` - project documentation
-- `index.html` - static app entry page
-- `script.js` - browser JavaScript
-- `style.css` - CSS styles
+- `index.html` - static app entry point
+- `script.js` - project file or directory
+- `style.css` - project file or directory
 
 ## Getting Started
 
 ### Prerequisites
 
-- A modern web browser
+- Git
 
-### Setup
+### Setup and Run
 
 ```bash
 git clone https://github.com/ENZOMOTIVE/QR-Code-Generator.git
 cd QR-Code-Generator
 ```
 
-Open `index.html` in a browser, or serve the folder with a lightweight static server.
+For static pages, open `index.html` in a browser or serve the repository with `python3 -m http.server`.
 
-## Available Commands
+## Commands
 
-- No package scripts were detected in the current repository contents.
+- No automated command set is declared yet; document commands here as tooling is added.
 
 ## Configuration
 
-- No required environment variables are documented yet. Add them here when the project needs configuration.
+- No required runtime configuration is documented yet. Add environment variables here when the project needs them.
 
 ## Testing and Quality
 
-- Automated tests are not documented yet. Add test commands here when test coverage is introduced.
+- No automated test workflow is declared yet; add tests and document the command here as the project matures.
 
-## Roadmap
+## Documentation Notes
 
-- Keep setup instructions aligned with the actual project workflow.
-- Add screenshots, architecture notes, or API examples as the implementation grows.
-- Document deployment steps once the hosting target is finalized.
+- Keep this README aligned with the actual source layout and commands.
+- Add screenshots, API examples, contract addresses, or deployment links when they become stable.
+- Update the project tags when the scope changes.
 
 ## Contributing
 
-1. Create a feature branch.
-2. Make focused changes and update documentation when behavior changes.
+1. Create a focused branch for the change.
+2. Update code and documentation together.
 3. Run the relevant checks before opening a pull request.
 
 ## License
 
-No license file is currently included. Add one before distributing or reusing this project publicly.
+No license file is currently committed. Add one before distributing this project publicly.
